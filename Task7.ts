@@ -1,3 +1,4 @@
+//1 Вариант
 class Vehicle {
   brand: string;
   model: string;
